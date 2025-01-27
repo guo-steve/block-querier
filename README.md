@@ -1,2 +1,2 @@
 # block-querier
-A querier for blockchains
+A querier for block chains.
